@@ -4,23 +4,30 @@ export const skillsData = [
   'Javascript',
   'Typescript',
   'React',
+  'Angular',
+  'GCP',
+  'AWS',
+  'C',
+  'C++',
+  'Python',
+  'Java',
+  'Numpy',
+  'Tensorflow',
   'Next JS',
   'Tailwind',
   'MongoDB',
   'MySQL',
-  'PostgreSQL',
   'Git',
   'AWS',
   'Bootstrap',
   'Docker',
-  'Go',
+  'kubernetes',
   'Figma',
   'Firebase',
   'MaterialUI',
-  'Nginx',
-  'Strapi'
+  'Nginx'
 ]
-
+  
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
 // Couldn't find the required skills? Raise an issue on github at https://github.com/hhhrrrttt222111/developer-portfolio/issues/new
 

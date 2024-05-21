@@ -122,15 +122,27 @@ function HeroSection() {
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Express</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Spring Boot</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Laravel</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Angular</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MySql</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">MongoDB</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">CI/CD</span>
+                <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Terraform</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Docker</span>
                 <span className="text-gray-400">{"', '"}</span>
+                <span className="text-amber-300">Kubernetes</span>
+                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">AWS</span>
+                <span className="text-gray-400">{"', '"}</span> 
+                <span className="text-amber-300">GCP</span>
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div>
