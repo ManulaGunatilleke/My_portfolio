@@ -7,6 +7,7 @@ import AnimationLottie from "../../helper/animation-lottie";
 import GlowCard from "../../helper/glow-card";
 import experience from '/public/lottie/code.json';
 import sectionSvg from "../../../../public/section.svg";
+import blurSvg from "../../../../public/blur-23.svg"
 
 function Experience() {
   return (
@@ -44,7 +45,7 @@ function Experience() {
                   <GlowCard key={experience.id} identifier={`experience-${experience.id}`}>
                     <div className="p-3 relative">
                       <Image
-                        src="/blur-23.svg"
+                        src={blurSvg}
                         alt="Hero"
                         width={1080}
                         height={200}

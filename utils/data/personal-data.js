@@ -16,7 +16,7 @@ export const personalData = {
   stackOverflow: '',
   leetcode: "https://leetcode.com/user7037Wi/",
   devUsername: "",
-  resume: "https://drive.google.com/file/d/118C4H0UksZGTOG0hZbKEA7oC1yTSxkpW/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1rgUZvJKog0FCllaKO8BmJLCk0K90EmYh/view?usp=sharing"
 };
 
 // Usage in a React Component
