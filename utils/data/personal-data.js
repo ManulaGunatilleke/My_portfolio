@@ -10,7 +10,7 @@ export const personalData = {
   phone: '+94705883826',
   address: 'No: 110, Temple Road, Kalutara North',
   github: 'https://github.com/ManulaGunatilleke',
-  facebook: 'hhttps://www.facebook.com/share/T5EfoEUNyyRG7HbR/?mibextid=qi2Omg',
+  facebook: 'https://www.facebook.com/profile.php?id=100065772092832&mibextid=ZbWKwL',
   linkedIn: 'https://www.linkedin.com/in/manula-gunatilleke/',
   twitter: '',
   stackOverflow: '',
